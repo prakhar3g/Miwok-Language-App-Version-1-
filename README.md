@@ -23,6 +23,6 @@ This app is the first version of Miwok Language Learning App.The app displays li
 
 ### Phrases:
 ![Screenshot_2019-10-06-00-42-09-441_com example prakharshakya language](https://user-images.githubusercontent.com/42642799/66259811-cd4cf800-e7d3-11e9-83be-9c24e13c61c5.png)
-<br
 <br>
-### App Developed Month:- October,2019
+<br>
+### App Developed Month:- October,2018
